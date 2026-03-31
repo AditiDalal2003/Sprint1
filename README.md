@@ -21,6 +21,3 @@ This project predicts Air Quality Index (AQI) using machine learning models.
 1. Install requirements
 2. Train model
 3. Run Flask/streamlit app
-
-## Author
-Sneha Malale
